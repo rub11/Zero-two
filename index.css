@@ -24,6 +24,10 @@ header img {
     border: 5px solid rgb(19, 138, 19);
 }
 
+h2 {
+    color: white;
+    text-align: center;
+}
 h3 {
     color: white;
     text-align: center;
@@ -45,6 +49,8 @@ a:hover {
 main {
     width: 700px;
     margin: auto;
+    min-width: 300px;
+    max-width: 100%
 }
 
 * {
